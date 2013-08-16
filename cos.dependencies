@@ -1,25 +1,31 @@
 [
   {
+    "project": "ChameleonOS",
     "repository": "android_device_sony_common",
     "target_path": "device/sony/common"
   },
   {
+    "project": "ChameleonOS",
     "repository": "android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common"
   },
-  {
+  { 
+    "project": "ChameleonOS",
     "repository": "android_device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common"
   },
   {
+    "project": "ChameleonOS",
     "repository": "android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064"
   },
   {
+    "project": "ChameleonOS",
     "repository": "android_packages_apps_FMRadio",
     "target_path": "packages/apps/FmRadio"
   },
   {
+    "project": "ChameleonOS",
     "repository": "android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH"
   }
